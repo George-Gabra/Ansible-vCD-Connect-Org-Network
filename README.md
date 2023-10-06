@@ -1,4 +1,4 @@
-# Ansible vCD Connect Org Network modules
+# Ansible vCD Connect Org Network module
 
 This repository contains Ansible module for connecting organization networks to a VMware vCloud Director (vCD) vAPP using Ansible.
 
